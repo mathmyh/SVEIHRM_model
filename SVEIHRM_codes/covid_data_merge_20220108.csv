@@ -1,5 +1,5 @@
-﻿,누적 검사 수,치료중 환자 수,격리해제 수,사망자 수,확진자 수,검사진행 수,결과 음성 수,변이 확진자,변이 확진자,변이,변이,변이 확진자,
-,총계(E),"격리 중(Q,현재)","회복자(격리해제,R)",누적 사망자(D),확진자 누적 수(I),검사중,결과 음성,누적 수(검사),일일(검사),분석률,검출률,일일,
+﻿,Cumulative number of tests,Number of patients being treated,Number of releases from quarantine,Number of deaths,Number of confirmed cases,Number of tests in progress,Number of people who are negative,Confirmed individuals (matant virus),Confirmed individuals (matant virus),Confirmed individuals (matant virus),Confirmed individuals (matant virus),Confirmed individuals (matant virus),
+,Total (E),Quarantined (Q),Recovered (R),Cumulative death (D),Cumulative number of confirmed cases (I),test,Negative,Cumulative count (tests),Daily (tests),Analysis rate,Detection rate,Daily,
 date,accExamCnt,careCnt,clearCnt,deathCnt,decideCnt,examCnt,resutlNegCnt,mutant,mutant_d,PA,PF,mutant,
 2020.2.8,2097,22,2,0,24,939,1134,0,0,0,0,0,0
 2020.2.9,2598,24,2,0,24,888,1683,0,0,0,0,0,0
